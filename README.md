@@ -1,4 +1,4 @@
-# AIML_PartB
+# AIML Part B by Raphael Lim
 Here is the link to the dataset
 https://drive.google.com/file/d/1Z0fNwDvjDSK9a8pMGgEaPkEV4pF3rsDM/view?usp=sharing
 
